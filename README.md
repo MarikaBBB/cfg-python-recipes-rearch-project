@@ -7,7 +7,7 @@ This project was presented alongside Sharmila Soudiah Rajendran and Laura Jimene
 Requirement: Sign up at Edamam API for app id and key.
 
 ### What was the original plan for the project?
-####Required Tasks
+#### Required Tasks
 Read the Edamam API documentation https://developer.edamam.com/edamam-docs-recipe-api
 
 - Ask the user to enter an ingredient that they want to search for
