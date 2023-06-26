@@ -33,6 +33,7 @@ function https://realpython.com/python-lambda/ https://www.educative.io/answers/
 
 Zip()
 https://www.programiz.com/python-programming/methods/built-in/zip
+
 Slicing a list(nested list or list of tuples)
 https://www.geeksforgeeks.org/how-to-iterate-through-a-nested-list-in-python/
 
@@ -40,7 +41,8 @@ join() function
 https://pythonbasics.org/join/ https://www.geeksforgeeks.org/python-string-join-method/
 
 Sorting
-,https://docs.python.org/3/howto/sorting.html https://www.educative.io/answers/how-to-sort-a-list-of-tuples-in-python-using-lambda
+,https://docs.python.org/3/howto/sorting.html 
+https://www.educative.io/answers/how-to-sort-a-list-of-tuples-in-python-using-lambda
 
 os.path.isfile() method
 https://www.geeksforgeeks.org/python-os-path-isfile-method/amp/
