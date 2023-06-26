@@ -46,7 +46,7 @@ os.path.isfile() method
 https://www.geeksforgeeks.org/python-os-path-isfile-method/amp/
 
 While loop
-https://www.google.com/url?q=https://realpython.com/python-while- loop/&source=gmail&ust=1675088430082000&usg=AOvVaw0ab L04pjtek7tjWd-IKOz
+https://www.google.com/url?q=https://realpython.com/python-while-loop/&source=gmail&ust=1675088430082000&usg=AOvVaw0ab L04pjtek7tjWd-IKOz
 
 ### A brief explanation of an interesting piece of code in the project: End of code and while loop
 - While loop allows the user to search for new recipes ( with a new ingredient).
