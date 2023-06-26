@@ -13,7 +13,6 @@ Read the Edamam API documentation https://developer.edamam.com/edamam-docs-recip
 - Ask the user to enter an ingredient that they want to search for
 - Create a function that makes a request to the Edamam API with the required ingredient as part of the search query (also included your - Application ID and Application Key
 - Get the returned recipes from the API response
-- Display the recipes for each search result https://api.edamam.com/search?q={INGREDIENT}&app_id={YOUR_APP_KEY}&app_key={YOUR_ APP_KEY}
 
 #### Ideas for Extending the Project
 - Save the results to a file
@@ -38,17 +37,18 @@ Slicing a list(nested list or list of tuples)
 https://www.geeksforgeeks.org/how-to-iterate-through-a-nested-list-in-python/
 
 join() function
-https://pythonbasics.org/join/ https://www.geeksforgeeks.org/python-string-join-method/
+https://pythonbasics.org/join/ 
+https://www.geeksforgeeks.org/python-string-join-method/
 
 Sorting
-,https://docs.python.org/3/howto/sorting.html 
+https://docs.python.org/3/howto/sorting.html 
 https://www.educative.io/answers/how-to-sort-a-list-of-tuples-in-python-using-lambda
 
 os.path.isfile() method
 https://www.geeksforgeeks.org/python-os-path-isfile-method/amp/
 
 While loop
-https://www.google.com/url?q=https://realpython.com/python-while-loop/&source=gmail&ust=1675088430082000&usg=AOvVaw0abL04pjtek7tjWd-IKOz
+https://realpython.com/python-while-loop/
 
 ### A brief explanation of an interesting piece of code in the project: End of code and while loop
 - While loop allows the user to search for new recipes ( with a new ingredient).
